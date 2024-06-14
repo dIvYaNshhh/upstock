@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Header matches the snapshot 1`] = `
+<View
+  className="sc-bdVaJa bVqVlE"
+>
+  <Text
+    className="sc-bwzfXH fwuZZg"
+  >
+    Upstox Holding
+  </Text>
+</View>
+`;

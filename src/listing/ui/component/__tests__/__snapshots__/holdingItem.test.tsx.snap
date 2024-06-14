@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - HoldingListItem matches the snapshot 1`] = `
+<View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      className="sc-bwzfXH cWdhba"
+      flexEnd={false}
+    >
+      <Text
+        className="sc-htpNat cjXytN"
+      >
+        AAPL
+      </Text>
+      <Text
+        className="sc-bxivhb esjODI"
+      >
+        100
+      </Text>
+    </View>
+    <View
+      className="sc-bwzfXH fjyMey"
+      flexEnd={true}
+    >
+      <Text
+        className="sc-bxivhb esjODI"
+      >
+        LTP: 
+        <Text
+          className="sc-ifAKCX kJknWg"
+        >
+          ₹ 100
+        </Text>
+      </Text>
+      <Text
+        className="sc-bxivhb esjODI"
+      >
+        P/L: 
+        <Text
+          className="sc-ifAKCX kJknWg"
+        >
+          ₹ 0.00
+        </Text>
+      </Text>
+    </View>
+  </View>
+  <View
+    collapsable={false}
+    pointerEvents="none"
+    style={
+      {
+        "height": 0,
+        "overflow": "hidden",
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      onLayout={[Function]}
+      style={{}}
+    >
+      <View
+        className="sc-EHOje gDoXQW"
+      >
+        <View
+          className="sc-bZQynM jbVsDv"
+        >
+          <Text
+            className="sc-ifAKCX kJknWg"
+          >
+            Current Value: 
+          </Text>
+          <Text
+            className="sc-bxivhb esjODI"
+          >
+            ₹ 10000.00
+          </Text>
+        </View>
+        <View
+          className="sc-bZQynM jbVsDv"
+        >
+          <Text
+            className="sc-ifAKCX kJknWg"
+          >
+            Total Investment: 
+          </Text>
+          <Text
+            className="sc-bxivhb esjODI"
+          >
+            ₹ 10000.00
+          </Text>
+        </View>
+        <View
+          className="sc-bZQynM jbVsDv"
+        >
+          <Text
+            className="sc-ifAKCX kJknWg"
+          >
+            Today's Profit & Loss: 
+          </Text>
+          <Text
+            className="sc-bxivhb esjODI"
+          >
+            ₹ 0.00
+          </Text>
+        </View>
+        <View
+          className="sc-gzVnrw bqaexq"
+        />
+        <View
+          className="sc-bZQynM jbVsDv"
+        >
+          <Text
+            className="sc-ifAKCX kJknWg"
+          >
+            Profit & Loss: 
+          </Text>
+          <Text
+            className="sc-bxivhb esjODI"
+          >
+            ₹ 0.00
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
